@@ -1,1 +1,1 @@
-# Exemples-ESP32-boton-contador
+En aquest projecte de ESP32 tindrem un sistema aplicat a un xip ESP32 junt amb un modul de una placa mitjana que permet connectar la placa amb el boto i el ESP32 per realitzar un contador de pulsacions
